@@ -1,13 +1,8 @@
 {
-  "ovoc" : {
-    "v1" : {
-      "topology" : {
-        "customers" : [
-          { "customerId": "id1"},
-          { "customerId": "id2"}
-         ]
-      }
-    }
+  "customers" : [
+    { "customerId": "id1"},
+    { "customerId": "id2"}
+   ]
   },
   "posts": [
     { "id": 1, "title": "Post 1" },
