@@ -5,7 +5,7 @@
         "customers" : [
           { "customerId": "id1"},
           { "customerId": "id2"}
-         ],
+         ]
       }
     }
   }
